@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.chart{
+    margin: 20px 0;
+}
+.table_pi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.table{
+    width: 55%;
+    padding: 10px;
+}
+.piChart{
+    width: 40%;
+    padding: 10px;
+}
